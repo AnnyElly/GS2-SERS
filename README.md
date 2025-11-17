@@ -38,7 +38,9 @@ Prioridade para Energia Renovável
 REFERENCIAS (fONTES): 
 Relatório de Sustentabilidade 
 https://sustainability.aboutamazon.com/stories/takeaways-from-the-amazon-sustainability-report?utm_source
+
 Amazon se inclina para as energias renováveis
 https://www.facilitiesdive.com/news/amazon-renewables-building-management-systems-emissions-sustainability/721354/?utm_source
+
 Infraestrutura Sustentável AWS
 https://aws.amazon.com/pt/sustainability/data-centers/?utm_source
