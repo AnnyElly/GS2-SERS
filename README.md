@@ -19,35 +19,24 @@ Alertas preventivos e decisões automáticas para reduzir carga em picos
 FUNCIONABILIDADE: 
 
 Otimização automática
-
   Desliga equipamentos ociosos após X minutos
-  
   Reduz potência de climatização quando sala está vazia
-  
   Liga equipamentos apenas quando energia solar está alta
+
  
 Ativa automaticamente quando:
-
   Energia solar baixa
-  
-  Demanda está muito alta
-  
+  Demanda está muito alta  
   Reduz carga desligando equipamentos não essenciais.
 
-Prioridade para Energia Renovável
-
-  °Se o nível solar > 60%:
   
-   Ativa servidores auxiliares
-   
+Prioridade para Energia Renovável
+  °Se o nível solar > 60%:
+   Ativa servidores auxiliares 
    Liga equipamentos de alto consumo
-   
    Carrega baterias
-   
  ° Se o nível solar < 20%:
- 
    Transfere carga para rede elétrica
-   
    Reduz itens não essenciais
 
 REFERENCIAS (fONTES): 
